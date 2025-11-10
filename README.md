@@ -1,55 +1,42 @@
-## Developer Portfolio Landing Page Template
-
-### ⚠️ Project Discontinued ⚠️
-
-**Note:** This project is no longer maintained and has been discontinued. No further updates or support will be provided. Feel free to fork the repository and make any necessary changes on your own.
+## Sample project on Data Science & Machine Learning
 
 ---
 
-### Introduction
+### Cracking the Hit Code: What Makes a Song Top the Billboard Charts 
+An exploratory data analysis of Billboard and Spotify data found that **upbeat** tracks with a **duration of roughly 3.5 minutes** are most strongly associated with chart-topping performance.
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
 
-### Installation
+[View code on Github](https://github.com/daniel-more/spotify_billboard_hits/blob/main/notebooks/EDA.ipynb)
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="images/spotify_energy_valence.png?raw=true"/>
+<img src="images/spotify_pairplot.png?raw=true"/>
 
-### Markdown
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+---
+### CrystalVision: Deep Learning Pipeline for Automated Crystal Formation Classification
 
-# Header 1
-## Header 2
-### Header 3
+CrystalVision is a full end-to-end machine learning pipeline designed to automate crystal formation image classification using the MARCO crystallization dataset. This project leverages AWS cloud infrastructure to build a scalable, production-ready workflow.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<img src="images/marco_crystallization_ml_pipeline.png?raw=true"/>
 
-**Bold** and _Italic_ and `Code` text
+| ![AWS](https://img.shields.io/badge/AWS-%23FF9900?logo=amazonaws&logoColor=white) | ![Glue](https://img.shields.io/badge/Glue-%2355A5FF?logo=amazonaws&logoColor=white) | ![Athena](https://img.shields.io/badge/Athena-%2359A3FF?logo=amazonaws&logoColor=white) | ![S3](https://img.shields.io/badge/S3-%23246EB9?logo=amazonaws&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) |
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
+### Beyond the Stars: Smarter Restaurant Ratings With NLP & AI
+This project enhances restaurant ratings by combining customer star scores with AI-driven insights extracted from written reviews, using a **BERT-based NLP model**. Rather than treating ratings as standard classification labels, the model applies the **CORAL ordinal regression framework** to capture the natural ranking between 1- to 5-star reviews—producing **more consistent, stable, and accurate rating predictions than traditional classification methods that ignore rating order** and often misinterpret close-range scores (e.g., confusing a 4-star rating with a 1-star rating equally as with a 5-star one).
 
-### Roadmap
+<img src="images/yelp_coral_model.png?raw=true"/>
+<img src="images/yelp_word_cloud.png?raw=true"/>
 
-This project has been discontinued and is no longer actively maintained. No new features or fixes will be added. If you're interested in contributing, feel free to fork the repository and customize it to your needs.
-___
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) | ![BERT](https://img.shields.io/badge/BERT-000000?logo=google&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) |
 
-### References
 
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+---
+<p style="font-size:11px"> </p>
+<!-- Remove above link if you don't want to attibute -->

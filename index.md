@@ -3,7 +3,8 @@
 ---
 ### 🚕 NYC TLC Taxi Demand Forecasting: Mapping the Pulse of NYC
 
-Ever wondered where NYC’s taxis really go? KFC airport give us some clues. This project turns raw trip data into stunning interactive maps and network graphs, revealing the city’s busiest pickup-dropoff flows. Using **real data 100.5 million trips** to forecast NYC taxi demand using time‑series modeling, statistical analysis, and machine learning. This project turns raw TLC trip data into actionable insights—surfaced through clean visualizations, seasonality modeling, and forward‑looking demand predictions. It applies data engineering, forecasting, and analytical skills.
+Ever wondered where NYC’s taxis really go? KFC airport give us some clues. 
+This project analyzes **100.5 million NYC taxi trips** to uncover where taxis travel most and how demand changes over time. It transforms raw TLC data into **interactive maps and network visualizations** that highlight the city’s busiest pickup-drop-off flows. Using time-series modeling, statistical methods, and machine learning, it **forecasts future taxi demand** and reveals key seasonal patterns. The work showcases end-to-end data engineering, analysis, and forecasting capabilities.
 
 
 [View code on Github](https://github.com/daniel-more/taxi_nyc_forecasting?tab=readme-ov-file#-nyc-tlc-taxi-demand-forecasting)

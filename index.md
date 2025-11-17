@@ -5,7 +5,7 @@
 Using **real data** forecasting NYC taxi demand using time‑series modeling, statistical analysis, and machine learning. This project turns raw TLC trip data into actionable insights—surfaced through clean visualizations, seasonality modeling, and forward‑looking demand predictions. It applies data engineering, forecasting, and analytical skills.
 
 
-[View code on Github](https://github.com/daniel-more/spotify_billboard_hits/blob/main/notebooks/EDA.ipynb)
+[View code on Github](https://github.com/daniel-more/taxi_nyc_forecasting?tab=readme-ov-file#-nyc-tlc-taxi-demand-forecasting)
 
 
 

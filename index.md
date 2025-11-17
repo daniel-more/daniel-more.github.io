@@ -1,6 +1,20 @@
 ## Sample project on Data Science & Machine Learning
 
 ---
+### 🚕 NYC TLC Taxi Demand Forecasting 
+Using **real data** forecasting NYC taxi demand using time‑series modeling, statistical analysis, and machine learning. This project turns raw TLC trip data into actionable insights—surfaced through clean visualizations, seasonality modeling, and forward‑looking demand predictions. It applies data engineering, forecasting, and analytical skills.
+
+
+[View code on Github](https://github.com/daniel-more/spotify_billboard_hits/blob/main/notebooks/EDA.ipynb)
+
+
+
+<img src="images/pickup_demand_static.png?raw=true"/>
+<img src="images/taxi_nyc_time_series.png?raw=true"/>
+
+
+| ![Statsmodels](https://img.shields.io/badge/Statsmodels-0C4B33?logo=python&logoColor=white) | ![GeoPandas](https://img.shields.io/badge/GeoPandas-43b049?logo=python&logoColor=white) | ![Spatial Forecasting](https://img.shields.io/badge/Spatial%20Forecasting-006699) 
+---
 
 ### Cracking the Hit Code: What Makes a Song Top the Billboard Charts 
 An exploratory data analysis of Billboard and Spotify data found that **upbeat** tracks with a **duration of roughly 3.5 minutes** are most strongly associated with chart-topping performance.

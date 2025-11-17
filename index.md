@@ -11,6 +11,7 @@ Ever wondered where NYC’s taxis really go? KFC airport give us some clues. Thi
 
 
 <img src="images/pickup_demand_static.png?raw=true"/>
+<img src="images/top_20_nyc_taxi_flows.png?raw=true"/>
 <img src="images/taxi_nyc_time_series.png?raw=true"/>
 
 
